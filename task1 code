@@ -1,7 +1,7 @@
 import requests
 import matplotlib.pyplot as plt
 
-# Replace with your OpenWeatherMap API key
+# OpenWeatherMap API key
 API_KEY = "25eec6dfab40ebc11601ff5846d02bdb"
 
 # List of cities to fetch weather data for
