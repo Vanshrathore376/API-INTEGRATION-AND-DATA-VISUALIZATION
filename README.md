@@ -55,4 +55,6 @@ Optional enhancements such as interactive widgets using matplotlib.widgets or a 
 
 Ouput:
 
+![Image](https://github.com/user-attachments/assets/6e5e93f3-91c9-4110-ba51-3af17440da69)
+
 
